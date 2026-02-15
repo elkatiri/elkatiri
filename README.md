@@ -1,4 +1,5 @@
-<p align="center"> <a href="https://your-portfolio-link.com"> <img width="80%" alt="Ahmed Elkatiri | Full-Stack Developer" src="./assets/gh-readme-header.png" /> </a> </p> <br />
+<p align="center"> <a href="https://github.com/elkatiri"> <img width="80%" alt="Ahmed Elkatiri | Full-Stack Developer" src="<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/2a3bb5c5-5b92-4cef-a821-fd4624ed1882" />
+" /> </a> </p> <br />
 Hi, I'm Ahmed Elkatiri 👋
 
 Full-Stack Developer | MERN Stack | Laravel/React | Next.js | Always Learning 🚀
