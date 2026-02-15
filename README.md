@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm El Katiri
+# 👋 Hi, I'm Ahmed Elkatiri
 
 ### Full-Stack Developer | Building Modern Web Applications
 
