@@ -41,6 +41,8 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable an
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -51,6 +53,7 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable an
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
@@ -61,11 +64,12 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable an
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elkatiri&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<a href="https://github.com/elkatiri">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=elkatiri&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=elkatiri&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elkatiri&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elkatiri&theme=radical&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=elkatiri&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -75,12 +79,19 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable an
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=elkatiri&repo=your-repo-name-1&theme=radical&hide_border=true)](https://github.com/elkatiri/your-repo-name-1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=elkatiri&repo=your-repo-name-2&theme=radical&hide_border=true)](https://github.com/elkatiri/your-repo-name-2)
+<a href="https://github.com/elkatiri/RentelCar">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=elkatiri&repo=RentelCar&theme=radical&hide_border=true" />
+</a>
+
+<a href="https://github.com/elkatiri/Startup">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=elkatiri&repo=Startup&theme=radical&hide_border=true" />
+</a>
+
+<a href="https://github.com/elkatiri/dental-website">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=elkatiri&repo=dental-website&theme=radical&hide_border=true" />
+</a>
 
 </div>
-
-> **Note:** Replace `your-repo-name-1` and `your-repo-name-2` with your actual repository names to showcase your best projects!
 
 ---
 
@@ -116,8 +127,6 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable an
 <div align="center">
 
 ### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-![Snake animation](https://raw.githubusercontent.com/elkatiri/elkatiri/output/github-contribution-grid-snake.svg)
 
 ---
 
