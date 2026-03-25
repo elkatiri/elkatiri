@@ -75,6 +75,7 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable an
 
 ---
 
+
 ## 🌟 Featured Repositories
 
 <div align="center">
@@ -89,6 +90,14 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable an
 
 <a href="https://github.com/elkatiri/dental-website">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=elkatiri&repo=dental-website&theme=radical&hide_border=true" />
+</a>
+
+<a href="https://github.com/elkatiri/markete-place">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=elkatiri&repo=markete-place&theme=radical&hide_border=true" />
+</a>
+
+<a href="https://github.com/elkatiri/FarmersPlatform">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=elkatiri&repo=FarmersPlatform&theme=radical&hide_border=true" />
 </a>
 
 </div>
