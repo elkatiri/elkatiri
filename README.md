@@ -48,6 +48,8 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable an
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -79,15 +81,6 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable an
 ## 🌟 Featured Repositories
 
 <div align="center">
-
-<a href="https://github.com/elkatiri/RentelCar">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=elkatiri&repo=RentelCar&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/elkatiri/Startup">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=elkatiri&repo=Startup&theme=radical&hide_border=true" />
-</a>
-
 <a href="https://github.com/elkatiri/dental-website">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=elkatiri&repo=dental-website&theme=radical&hide_border=true" />
 </a>
@@ -99,6 +92,18 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable an
 <a href="https://github.com/elkatiri/FarmersPlatform">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=elkatiri&repo=FarmersPlatform&theme=radical&hide_border=true" />
 </a>
+<a href="https://github.com/elkatiri/Invoices">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=elkatiri&repo=FarmersPlatform&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/elkatiri/RentelCar">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=elkatiri&repo=RentelCar&theme=radical&hide_border=true" />
+</a>
+
+<a href="https://github.com/elkatiri/Startup">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=elkatiri&repo=Startup&theme=radical&hide_border=true" />
+</a>
+
+
 
 </div>
 
